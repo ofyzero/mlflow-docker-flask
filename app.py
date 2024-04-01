@@ -7,8 +7,7 @@ import json
 app = Flask(__name__)
 
 # Load your trained machine learning model
-
-model = joblib.load("./mle-intv-main/models/model.pkl")  # Replace "your_model.pkl" with the path to your trained model file
+model = joblib.load("./mle-intv-main/models/model.pkl")  
 
 @app.route('/')
 def hello():

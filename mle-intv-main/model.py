@@ -91,12 +91,6 @@ def pipeline(numeric_features, categorical_features):
 
 def evaluation(clf, X_test, y_test):
 
-   
-    # Log parameters
-    # mlflow.log_param("param_name", param_value)
-
-    # Your model training code (assuming clf is already trained)
-
     # Log model score
     model_score = clf.score(X_test, y_test)
     print("Model score: %.3f" % model_score)
@@ -115,7 +109,7 @@ def evaluation(clf, X_test, y_test):
     df = DataFrame(clf_report).transpose()
 
     # Convert DataFrame to tabular format
-    table = tabulate(df, headers='keys', tablefmt='grid',  showindex=True)
+    _ = tabulate(df, headers='keys', tablefmt='grid',  showindex=True)
 
     # Plot DataFrame
     fig, ax = plt.subplots(figsize=(10, 6))
@@ -128,12 +122,11 @@ def evaluation(clf, X_test, y_test):
 
     mlflow.log_artifact("./models/clf_report.png")
 
-    # mlflow.log_dict(clf_report, "classification_report")
-
     # Log confusion matrix
     conf_matrix = confusion_matrix(y_test, clf.predict(X_test))
     print("Confusion matrix:")
     print(conf_matrix)
+
     # Save the confusion matrix to a file
     np.savetxt('./models/confusion_matrix.txt', conf_matrix)
     mlflow.log_artifact("./models/confusion_matrix.txt")
@@ -189,8 +182,8 @@ def main(args_data):
     print(X_test.head())
 
     # Make LogReg Pipeline
-    # clf.fit(X_train, y_train)
     with mlflow.start_run():
+        
         # Train your model
         clf.fit(X_train, y_train)
 
