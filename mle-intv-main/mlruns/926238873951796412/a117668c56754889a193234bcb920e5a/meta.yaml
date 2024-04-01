@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/a117668c56754889a193234bcb920e5a/artifacts
+end_time: 1711825691048
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: a117668c56754889a193234bcb920e5a
+run_name: resilient-trout-837
+run_uuid: a117668c56754889a193234bcb920e5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711825690981
+status: 4
+tags: []
+user_id: omer_

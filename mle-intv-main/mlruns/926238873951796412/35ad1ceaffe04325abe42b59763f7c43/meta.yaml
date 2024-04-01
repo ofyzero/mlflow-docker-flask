@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/35ad1ceaffe04325abe42b59763f7c43/artifacts
+end_time: 1711826263969
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: 35ad1ceaffe04325abe42b59763f7c43
+run_name: traveling-asp-299
+run_uuid: 35ad1ceaffe04325abe42b59763f7c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711826257899
+status: 3
+tags: []
+user_id: omer_

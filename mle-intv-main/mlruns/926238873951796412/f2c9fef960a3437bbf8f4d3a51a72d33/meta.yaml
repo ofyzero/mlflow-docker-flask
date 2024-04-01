@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/f2c9fef960a3437bbf8f4d3a51a72d33/artifacts
+end_time: 1711827312153
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: f2c9fef960a3437bbf8f4d3a51a72d33
+run_name: smiling-boar-915
+run_uuid: f2c9fef960a3437bbf8f4d3a51a72d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711827305922
+status: 3
+tags: []
+user_id: omer_

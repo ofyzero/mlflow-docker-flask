@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/9e5db40540c44d4796fa495dad96145e/artifacts
+end_time: 1711825345810
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: 9e5db40540c44d4796fa495dad96145e
+run_name: charming-penguin-425
+run_uuid: 9e5db40540c44d4796fa495dad96145e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711825341436
+status: 3
+tags: []
+user_id: omer_

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/de79270965214f9487e5ac53a13c7451/artifacts
+end_time: 1711826006486
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: de79270965214f9487e5ac53a13c7451
+run_name: gifted-worm-957
+run_uuid: de79270965214f9487e5ac53a13c7451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711826005906
+status: 3
+tags: []
+user_id: omer_

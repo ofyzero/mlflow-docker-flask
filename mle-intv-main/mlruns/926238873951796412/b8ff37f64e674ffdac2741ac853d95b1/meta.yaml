@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/b8ff37f64e674ffdac2741ac853d95b1/artifacts
+end_time: 1711825611368
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: b8ff37f64e674ffdac2741ac853d95b1
+run_name: popular-crane-229
+run_uuid: b8ff37f64e674ffdac2741ac853d95b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711825611280
+status: 4
+tags: []
+user_id: omer_

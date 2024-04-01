@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/58f2d0111db941fc845c4ef1cef43b8d/artifacts
+end_time: 1711826200706
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: 58f2d0111db941fc845c4ef1cef43b8d
+run_name: luxuriant-snail-537
+run_uuid: 58f2d0111db941fc845c4ef1cef43b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711826200097
+status: 3
+tags: []
+user_id: omer_

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/592f084076c14a60bd6ed52333b66170/artifacts
+end_time: 1711827083847
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: 592f084076c14a60bd6ed52333b66170
+run_name: gentle-owl-398
+run_uuid: 592f084076c14a60bd6ed52333b66170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711827077396
+status: 3
+tags: []
+user_id: omer_

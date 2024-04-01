@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/40501e729617416e9d1a2d0ea32fc514/artifacts
+end_time: 1711825743371
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: 40501e729617416e9d1a2d0ea32fc514
+run_name: smiling-lamb-1000
+run_uuid: 40501e729617416e9d1a2d0ea32fc514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711825740058
+status: 3
+tags: []
+user_id: omer_

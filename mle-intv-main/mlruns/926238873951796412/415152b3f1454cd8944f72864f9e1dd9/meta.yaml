@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/415152b3f1454cd8944f72864f9e1dd9/artifacts
+end_time: 1711826005900
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: 415152b3f1454cd8944f72864f9e1dd9
+run_name: fortunate-skink-149
+run_uuid: 415152b3f1454cd8944f72864f9e1dd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711826002202
+status: 3
+tags: []
+user_id: omer_

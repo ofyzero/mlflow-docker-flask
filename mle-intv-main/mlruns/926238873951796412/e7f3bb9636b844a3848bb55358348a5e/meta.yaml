@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/e7f3bb9636b844a3848bb55358348a5e/artifacts
+end_time: 1711827445950
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: e7f3bb9636b844a3848bb55358348a5e
+run_name: gifted-loon-393
+run_uuid: e7f3bb9636b844a3848bb55358348a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711827439720
+status: 3
+tags: []
+user_id: omer_

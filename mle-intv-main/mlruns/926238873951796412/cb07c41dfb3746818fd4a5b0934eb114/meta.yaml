@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omer_/Downloads/kohls/mle-intv-main/mlruns/926238873951796412/cb07c41dfb3746818fd4a5b0934eb114/artifacts
+end_time: 1711825345893
+entry_point_name: ''
+experiment_id: '926238873951796412'
+lifecycle_stage: active
+run_id: cb07c41dfb3746818fd4a5b0934eb114
+run_name: worried-steed-399
+run_uuid: cb07c41dfb3746818fd4a5b0934eb114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711825345819
+status: 4
+tags: []
+user_id: omer_

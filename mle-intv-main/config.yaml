@@ -1,0 +1,6 @@
+general:
+  numeric_features: ["x1", "x2", "x4", "x5"]
+  categorical_features:  ["x3", "x6", "x7"]
+  random_state: 1337
+  input_data: ./data/train.csv
+  model_output: ./models
